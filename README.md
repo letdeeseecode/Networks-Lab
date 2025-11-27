@@ -17,4 +17,4 @@ list should be updated in the server every time a transaction occurs.
 vi. The total number of unique customers who did some transaction will be
 displayed to the customer every time.
 .
-![output_of_assignment2]()
+![output_of_assignment2](https://github.com/letdeeseecode/Networks-Lab/blob/cbf1ca6fd0cdc3b530a61227b65aa5d491cfdec3/assignment_2/output2.png)
