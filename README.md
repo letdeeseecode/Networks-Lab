@@ -32,7 +32,7 @@ Time Diagram:
 ![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/91960faab6ac7e31467ebc9aa3d4897017f19a2d/assignment_4/output4_time_diagram2.png)
 
 L2 Header Fields:
-![output_of_assignment4]()
+![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/69c8006d2971d6875380c177c6b2e2ea573a5c56/assignment_4/output4_L2_header.png)
 
 L3 Header Fields:
 ![output_of_assignment4]()
