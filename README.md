@@ -38,4 +38,4 @@ L3 Header Fields:
 ![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/fe01485cfa8b34bfeac767ef0124a3d8b63b118c/assignment_4/output4_L3_header.png)
 
 L4 Header Fields:
-![output_of_assignment4]()
+![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/1d496925ae805801e18b0fa1206555c59eaa0a7c/assignment_4/output4_L4_header.png)
