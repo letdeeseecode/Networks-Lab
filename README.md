@@ -22,3 +22,7 @@ displayed to the customer every time.
 Assignment 3: Same as Assignment 2 using UDP socket.
 .
 ![output_of_assignment3](https://github.com/letdeeseecode/Networks-Lab/blob/26264d33d3ca0f668adf62bbfa0f92c358ee5676/assignment_3/output3.png)
+
+Assignment 4: Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram to show the steps in the protocols recorded in the captured file (saved in the .pcap file of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be extracted from the .pcap file.
+.
+![output_of_assignment4]()
