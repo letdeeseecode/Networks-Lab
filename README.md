@@ -31,11 +31,11 @@ Time Diagram:
 ![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/8f013fe98be2eaa73fefdd1a3b68d231c9cce6ab/assignment_4/output4_time_diagram1.png)
 ![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/91960faab6ac7e31467ebc9aa3d4897017f19a2d/assignment_4/output4_time_diagram2.png)
 
-L2 Header Fields:
+L2 Header Fields-
 ![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/69c8006d2971d6875380c177c6b2e2ea573a5c56/assignment_4/output4_L2_header.png)
 
-L3 Header Fields:
+L3 Header Fields-
 ![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/fe01485cfa8b34bfeac767ef0124a3d8b63b118c/assignment_4/output4_L3_header.png)
 
-L4 Header Fields:
+L4 Header Fields-
 ![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/1d496925ae805801e18b0fa1206555c59eaa0a7c/assignment_4/output4_L4_header.png)
