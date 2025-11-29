@@ -21,4 +21,4 @@ displayed to the customer every time.
 
 Assignment 3: Same as Assignment 2 using UDP socket.
 .
-![output_of_assignment3]()
+![output_of_assignment3](https://github.com/letdeeseecode/Networks-Lab/blob/26264d33d3ca0f668adf62bbfa0f92c358ee5676/assignment_3/output3.png)
