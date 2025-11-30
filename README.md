@@ -46,5 +46,5 @@ Assignment 5: Learn and use maximum number of packet generation tools. Steps/ Hi
 
 Assignment 6: Develop a simple C based network simulator to analyze TCP traffic. Steps/ Hints: 1. Use TCP/IP based C libraries including socket to listen to the incoming packets at the Ethernet port. 2. Extract header and data of the incoming packets.
 .
-![output_of_assignment6]()
+![output_of_assignment6](https://github.com/letdeeseecode/Networks-Lab/blob/467eff7fbd42495d4ac3c21af5c68e5a02edb600/assignment_6/output6_listening.png)
 ![output_of_assignment6]()
