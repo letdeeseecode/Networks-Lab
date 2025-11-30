@@ -39,3 +39,12 @@ L3 Header Fields:
 
 L4 Header Fields:
 ![output_of_assignment4](https://github.com/letdeeseecode/Networks-Lab/blob/1d496925ae805801e18b0fa1206555c59eaa0a7c/assignment_4/output4_L4_header.png)
+
+Assignment 5: Learn and use maximum number of packet generation tools. Steps/ Hints: Install Iperf, D-ITG etc. and send traffic among mininet hosts.
+.
+![output_of_assignment5]()
+
+Assignment 6: Develop a simple C based network simulator to analyze TCP traffic. Steps/ Hints: 1. Use TCP/IP based C libraries including socket to listen to the incoming packets at the Ethernet port. 2. Extract header and data of the incoming packets.
+.
+![output_of_assignment6]()
+![output_of_assignment6]()
