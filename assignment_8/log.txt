@@ -1,0 +1,10 @@
+[07:16:21] hello from client1
+
+[07:16:31] hello from client2
+
+[07:17:14] how are you client2 ?
+
+[07:17:27] i am good client1, how about you?
+
+[07:17:40] i am good as well!
+
