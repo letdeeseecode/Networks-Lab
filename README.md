@@ -48,3 +48,7 @@ Assignment 6: Develop a simple C based network simulator to analyze TCP traffic.
 .
 ![output_of_assignment6](https://github.com/letdeeseecode/Networks-Lab/blob/467eff7fbd42495d4ac3c21af5c68e5a02edb600/assignment_6/output6_listening.png)
 ![output_of_assignment6](https://github.com/letdeeseecode/Networks-Lab/blob/25d9def78ac33c48a1b5460d049c38ef234c50ef/assignment_6/output6_headerinfo.png)
+
+Assignment 7:Write UDP client server socket program where client sends one/two number(s)(integer or floating point) to server and a scientific calculator operation (like sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of operation as sent by the client. Server will maintain a scientific calculator. Detect in the mininet hosts with wireshark if there is any packet loss.
+.
+![output_of_assignment7]()
