@@ -49,7 +49,7 @@ Assignment 6: Develop a simple C based network simulator to analyze TCP traffic.
 ![output_of_assignment6](https://github.com/letdeeseecode/Networks-Lab/blob/467eff7fbd42495d4ac3c21af5c68e5a02edb600/assignment_6/output6_listening.png)
 ![output_of_assignment6](https://github.com/letdeeseecode/Networks-Lab/blob/25d9def78ac33c48a1b5460d049c38ef234c50ef/assignment_6/output6_headerinfo.png)
 
-Assignment 7:Write UDP client server socket program where client sends one/two number(s)(integer or floating point) to server and a scientific calculator operation (like sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of operation as sent by the client. Server will maintain a scientific calculator. Detect in the mininet hosts with wireshark if there is any packet loss.
+Assignment 7: Write UDP client server socket program where client sends one/two number(s)(integer or floating point) to server and a scientific calculator operation (like sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of operation as sent by the client. Server will maintain a scientific calculator. Detect in the mininet hosts with wireshark if there is any packet loss.
 .
 ![output_of_assignment7](https://github.com/letdeeseecode/Networks-Lab/blob/a6ad30fc3d489670c5dbe4d4c1ffd667ce884969/assignment_7/output7.png)
 
@@ -62,3 +62,8 @@ Assignment 8: Write a program in C using thread library and TCP sockets to build
 Assignment 9: Write a client server socket program in TCP for uploading and downloading files between two different hosts. Also calculate the transfer time in both the cases.
 .
 ![output_of_assignment9](https://github.com/letdeeseecode/Networks-Lab/blob/7dc1ff700e3cc145e7a65aa338502014af2f4127/assignment_9/output9.png)
+
+Assignment 9: Write two C programs using raw socket to send i. TCP packet where TCP payload will contain your roll number. ii. ICMP time stamp messages towards a target IP
+.
+![output_of_assignment10]()
+
