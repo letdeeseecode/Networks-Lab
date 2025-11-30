@@ -61,4 +61,4 @@ Assignment 8: Write a program in C using thread library and TCP sockets to build
 
 Assignment 9: Write a client server socket program in TCP for uploading and downloading files between two different hosts. Also calculate the transfer time in both the cases.
 .
-![output_of_assignment9]()
+![output_of_assignment9](https://github.com/letdeeseecode/Networks-Lab/blob/7dc1ff700e3cc145e7a65aa338502014af2f4127/assignment_9/output9.png)
