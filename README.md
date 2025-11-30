@@ -56,4 +56,5 @@ Assignment 7:Write UDP client server socket program where client sends one/two n
 Assignment 8: Write a program in C using thread library and TCP sockets to build a chat server which enable clients communicating to each other through the chat server. Message logs must be maintained in the server in a text file. Each client will see the conversations in real time. Clients must handled by a server thread. (Keep it like a group chatbox)
 .
 
+![output_of_assignment8](https://github.com/letdeeseecode/Networks-Lab/blob/e50aba2408a07990c16ed9030dd8fb6a103948be/assignment_8/output8.png)
 ![output_of_assignment8]()
