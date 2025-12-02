@@ -75,4 +75,8 @@ Output (ii)
 
 Assignment 11: Write a RAW socket program to generate TCP SYN flood based DDoS attack towards an IP address. Take four mininet hosts as agent devices.
 .
-![output_of_assignment11]()
+![output_of_assignment11](https://github.com/letdeeseecode/Networks-Lab/blob/e7520c5dc54babcf2ca6eaa2c9804e213a383bef/assignment_11/output11.png)
+
+Assignment 12: Same as Assignment 10 with ICMP packets using RAW sockets
+.
+![output_of_assignment12]()
