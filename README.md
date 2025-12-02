@@ -79,4 +79,8 @@ Assignment 11: Write a RAW socket program to generate TCP SYN flood based DDoS a
 
 Assignment 12: Same as Assignment 10 with ICMP packets using RAW sockets
 .
-![output_of_assignment12]()
+![output_of_assignment12](https://github.com/letdeeseecode/Networks-Lab/blob/e85f51da9f010f0486c00a25253ee79a79b979f0/assignment_12/output12.png)
+
+Assignment 13: Create a binary tree topology with 7 switches in mininet. Capture packets at the root switch. Write a C program to extract the headers and draw a time diagram to show the protocols displayed in the captured file (save the .pcap/.pcapng file of wireshark/tshark) during a PING operation. List the L2, L3, L4 protocols that can be extracted from the .pcap/.pcapng file.
+.
+![output_of_assignment13]()
