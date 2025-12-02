@@ -69,6 +69,6 @@ Output (i):
 ![output_of_assignment10i](https://github.com/letdeeseecode/Networks-Lab/blob/ad6e8dbd22e7911b66db1ecfeff18a7c03c0ba6d/assignment_10/output10_roll_payload.png)
 
 Output (ii)
-![output_of_assignment10ii]()
+![output_of_assignment10ii](https://github.com/letdeeseecode/Networks-Lab/blob/8e1b0302cb466d3df26b53bb11e41f20d63fa796/assignment_10/output10_icmp.png)
 ![output_of_assignment10ii]()
 ![output_of_assignment10ii]()
