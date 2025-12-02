@@ -70,5 +70,5 @@ Output (i):
 
 Output (ii)
 ![output_of_assignment10ii](https://github.com/letdeeseecode/Networks-Lab/blob/8e1b0302cb466d3df26b53bb11e41f20d63fa796/assignment_10/output10_icmp.png)
-![output_of_assignment10ii]()
+![output_of_assignment10ii](https://github.com/letdeeseecode/Networks-Lab/blob/4417d71e8a193f3a2869f096a436232bf521ee1d/assignment_10/output10_req.png)
 ![output_of_assignment10ii]()
