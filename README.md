@@ -42,6 +42,13 @@ L4 Header Fields:
 
 Assignment 5: Learn and use maximum number of packet generation tools. Steps/ Hints: Install Iperf, D-ITG etc. and send traffic among mininet hosts.
 .
+Output for IPERF (TCP):
+![output_of_assignment5](https://github.com/letdeeseecode/Networks-Lab/blob/fa842ab45b081379c701f06e8c5e544d7304958c/assignment_5/output5_iperf_tcp.png)
+
+Output for IPERF (UDP):
+![output_of_assignment5]()
+
+Output for D-ITG:
 ![output_of_assignment5]()
 
 Assignment 6: Develop a simple C based network simulator to analyze TCP traffic. Steps/ Hints: 1. Use TCP/IP based C libraries including socket to listen to the incoming packets at the Ethernet port. 2. Extract header and data of the incoming packets.
