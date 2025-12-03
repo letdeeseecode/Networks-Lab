@@ -11,6 +11,7 @@
 
 #define ETHER_ADDR_LEN 6
 
+
 struct ethernet_header {
     u_char  dst_mac[ETHER_ADDR_LEN];
     u_char  src_mac[ETHER_ADDR_LEN];
@@ -112,7 +113,7 @@ int main(int argc, char *argv[])
     const u_char *packet;
     struct pcap_pkthdr header;
 
-    int packet_count = 0;  
+    int packet_count = 0;   
 
     handle = pcap_open_offline(argv[1], errbuf);
     if (handle == NULL) {
@@ -132,7 +133,7 @@ int main(int argc, char *argv[])
     pcap_close(handle);
 
     printf("----------------------------------------------\n");
-    printf("Total Packets Processed: %d\n\n", packet_count);   
+    printf("Total Packets Processed: %d\n\n", packet_count);  
 
     printf("SUMMARY OF DETECTED PROTOCOLS:\n");
 
