@@ -49,7 +49,7 @@ Output for IPERF (UDP):
 ![output_of_assignment5](https://github.com/letdeeseecode/Networks-Lab/blob/f3b043c8c5828f1b744186e403331cee106c0841/assignment_5/output5_iperf_udp.png)
 
 Output for D-ITG:
-![output_of_assignment5]()
+![output_of_assignment5](https://github.com/letdeeseecode/Networks-Lab/blob/e04f47b7554d45d6c7e74666c84a22b3c2c68c5d/assignment_5/output5_ditg.png)
 
 Assignment 6: Develop a simple C based network simulator to analyze TCP traffic. Steps/ Hints: 1. Use TCP/IP based C libraries including socket to listen to the incoming packets at the Ethernet port. 2. Extract header and data of the incoming packets.
 .
