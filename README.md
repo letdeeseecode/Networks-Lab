@@ -84,4 +84,4 @@ Assignment 12: Same as Assignment 10 with ICMP packets using RAW sockets
 Assignment 13: Create a binary tree topology with 7 switches in mininet. Capture packets at the root switch. Write a C program to extract the headers and draw a time diagram to show the protocols displayed in the captured file (save the .pcap/.pcapng file of wireshark/tshark) during a PING operation. List the L2, L3, L4 protocols that can be extracted from the .pcap/.pcapng file.
 .
 ![output_of_assignment13](https://github.com/letdeeseecode/Networks-Lab/blob/8084d50f425fbe75ac8a3f6ce69efcbdf1616f5e/assignment_13/output13_ping.png)
-![output_of_assignment13]()
+![output_of_assignment13](https://github.com/letdeeseecode/Networks-Lab/blob/ab6d51a0d7c49e16044899a73dd8413ce150eee7/assignment_13/output13_pinganalyzer.png)
